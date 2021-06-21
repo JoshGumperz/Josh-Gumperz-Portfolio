@@ -154,7 +154,7 @@ header nav li a {
 }
 
 .contact-me {
-    margin: 70px 0px 60px 0px;
+    margin: 70px 0px 100px 0px;
 }
 
 .contact-me-container {
@@ -168,4 +168,21 @@ header nav li a {
 .contact-me a {
     color:#ffffff;
     text-decoration: underline;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(32, 32, 32);
+    margin-top: 100px;
+    height: 100px;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    color: #ffff;
+    text-align: center;
+    font-size: small;
 }
