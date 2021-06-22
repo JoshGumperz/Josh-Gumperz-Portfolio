@@ -189,6 +189,7 @@ footer p {
     text-align: center;
     font-size: small;
 }
+
 /* add styling adjustments for smaller screens */
 @media screen and (max-width: 1900px) {
     /* because of the way I positioned the work section I kept running into this issue where it would look good at full screen, but get pushed to the right when screen size shrank. Couldn't figure out a good way to reposition it, so just decided to use margin: auto; to center it instead */
