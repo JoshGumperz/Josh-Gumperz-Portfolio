@@ -311,6 +311,10 @@ footer p {
 }
 
 @media screen and (max-width: 730px) {
+    header h1 {
+        right: 30px;
+    }
+    
     .work-container {
         max-width: 650px;
         left: 10px
@@ -328,9 +332,6 @@ footer p {
 }
 
 @media screen and (max-width: 600px) {
-    header h1 {
-        right: 30px;
-    }
     header nav li a {
         padding: 8px;
     }
@@ -372,4 +373,11 @@ footer p {
         height: 200px;
         width: 325px;
     }
+}
+
+@media screen and (max-width: 420px) {
+    header h1 {
+        left: 20px;
+    }
+    
 }
