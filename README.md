@@ -10,7 +10,7 @@ The only thing you need in order to view the site is a device with internet conn
 
 The site is linked below so feel free to take a look! Please note:
 - Code has been properly restyled for smaller screens
-- All clickable links have been indicated as such by changing the cursor to a pointer upon hovering over a link ![Screenshot](.assets/images/Screenshot_33.jpeg)
+- All clickable links have been indicated as such by changing the cursor to a pointer upon hovering over a link
 - All images have a descriptive alt attribute
 - Document has a descriptive title
 - Descriptive comments are present in index.html and style.css
