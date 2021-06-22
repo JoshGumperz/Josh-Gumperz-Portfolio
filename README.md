@@ -14,7 +14,7 @@ I've included a gif of what the site looks like as you scroll through. The site 
 - All images have a descriptive alt attribute
 - Document has a descriptive title
 - Descriptive comments are present in index.html and style.css
-![Link Gif Showcasing Deployed Site](https://imgur.com/H0IufU4)
+![Screenshot](https://imgur.com/a/GymlrAk)
 
 ## Built With
 
