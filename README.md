@@ -8,7 +8,7 @@ The only thing you need in order to view the site is a device with internet conn
 
 ## Getting Started
 
-I've included a gif of what the site looks like as you scroll through. The site is also linked below so feel free to take a look! Please note:
+I've included screenshots of what the site looks like as you scroll through. The site is also linked below so feel free to take a look! Please note:
 - Code has been properly restyled for smaller screens
 - All clickable links have been indicated as such by changing the cursor to a pointer upon hovering over a link
 - All images have a descriptive alt attribute
