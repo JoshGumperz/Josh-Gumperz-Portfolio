@@ -328,6 +328,13 @@ footer p {
 }
 
 @media screen and (max-width: 600px) {
+    header h1 {
+        right: 30px;
+    }
+    header nav li a {
+        padding: 8px;
+    }
+
     .work-container {
         max-width: 500px;
     }
@@ -348,6 +355,10 @@ footer p {
 }
 
 @media screen and (max-width: 500px) {
+    nav{
+        justify-content: center;
+    }
+
     nav ul li a {
         font-size: 12px;
     }
